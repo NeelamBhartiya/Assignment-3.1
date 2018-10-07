@@ -1,0 +1,6 @@
+1.library(foreign)
+read.xport
+2.library(Haven)
+error came "Error in library(Haven) : there is no package called ‘Haven’"
+3.read.arff
+4.read.csv
